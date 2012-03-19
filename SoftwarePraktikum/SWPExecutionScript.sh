@@ -1,0 +1,1 @@
+java -jar -Xss300m SWP.jar

@@ -1,0 +1,110 @@
+#####################
+# 
+# Lizenzen / Licenses
+#
+#####################
+
+-- for english version see below --
+
+Dieses Prokjekt besteht aus mehreren Teilen, die unter verscheidenen Lizenzen stehen.
+
+Diese Teile sind:
+- das Routenplaner-Programm, mit Quelltext und Dokumentation, sowie Testdateien
+- die Bilder im Ordner "img"
+- Daten des "OpenStrettMap"-Projektes
+
+In Kurzform gilt:
+- das Routenplaner-Programm, mit Quelltext und Dokumentation, sowie Testdateien stehen unter der LGPL
+- die Bilder im Ordner "img" stehen unter der CC-BY-SA
+- Daten des "OpenStrettMap"-Projektes stehen unter der CC-BY-SA
+
+
+Vollstaendig:
+
+## Lizenz fuer die OSM-Daten ##
+Diese sind insbesondere:
+Aachen_Innenring_fix.osm, Aachen_Innenring.osm, aachen.osm, aufmkruempel.osm, bremen.osm, gemmenich.osm, ningbo.osm, RWTH.osm, teheran.osm
+
+
+Geodaten © OpenStreetMap und Mitwirkende, CC BY-SA
+
+
+siehe dazu auch:
+http://www.openstreetmap.org/ und http://creativecommons.org/licenses/by-sa/2.0/
+
+
+## Lizenz fuer die Bilder ##
+Diese sind insbesondere:
+icon.gif, splash2.gif, start.gif, ziel.gif
+
+
+Bilder © SWP-Team und Mitwirkende, CC BY-SA
+
+
+siehe dazu auch:
+http://creativecommons.org/licenses/by-sa/2.0/
+
+
+## Lizenz fuer das Programm, Testdateien, Quelltexte ##
+Dies sind insbesondere:
+Quelltexte im Ordner "src"
+Testdateien: test0.1.osm, test0.2.osm, test0.3.osm, test1.osm, test2.osm, test3.osm, test4.osm, test5.osm, test5.osm, test6.osm, test7.osm, testGraph.osm, testGraph2.osm, testGraph3.osm, TilerGraph.osm, DtestGraph.osm, FilterGraph1.osm
+Dokumentation im Ordner "doc" und die "doku.pdf"
+
+
+© SWP-Team und Mitwirkende, LGPL
+
+siehe dazu auch:
+http://www.gnu.org/licenses/lgpl.txt
+
+
+-- english version --
+
+This project consists of several parts, having different licenses.
+
+Those parts are:
+- the Routing-Prgramm with all sourcecode, documentation and testfiles
+- the Images in the directory "img"
+- data from "OpenStreetMap"
+
+In short:
+- the Routing-Prgramm with all sourcecode, documentation and testfiles are licensed by LGPL
+- the Images in the directory "img" are licensed by CC-BY-SA
+- data from "OpenStreetMap" are licensed by CC-BY-SA
+
+Full version:
+
+## License for OSM-Data ##
+These are:
+Aachen_Innenring_fix.osm, Aachen_Innenring.osm, aachen.osm, aufmkruempel.osm, bremen.osm, gemmenich.osm, ningbo.osm, RWTH.osm, teheran.osm
+
+
+Map data © OpenStreetMap contributors, CC BY-SA
+
+
+further information:
+http://www.openstreetmap.org/ and http://creativecommons.org/licenses/by-sa/2.0/
+
+
+## License for the Images ##
+These are:
+icon.gif, splash2.gif, start.gif, ziel.gif
+
+
+Images © SWP-Team and contributors, CC BY-SA
+
+
+further information:
+http://creativecommons.org/licenses/by-sa/2.0/
+
+## License for programm, testfiles, source ##
+These are:
+Source-Files in Directory "src"
+Testfiles: test0.1.osm, test0.2.osm, test0.3.osm, test1.osm, test2.osm, test3.osm, test4.osm, test5.osm, test5.osm, test6.osm, test7.osm, testGraph.osm, testGraph2.osm, testGraph3.osm, TilerGraph.osm, DtestGraph.osm, FilterGraph1.osm
+Documentation in directory "doc" and the "doku.pdf"
+
+
+© SWP-Team and contributors, LGPL
+
+further information:
+http://www.gnu.org/licenses/lgpl.txt

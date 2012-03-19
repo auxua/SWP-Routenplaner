@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Test 3 - Hier sind die Koordinaten der Bounds ungültig -->
+<osm version="0.6" generator="ichwars">
+<bounds minlat="-200.1585328" minlon="-400.4654551" maxlat="2000.4852154" maxlon="4000.5879648" />
+<!-- Erste Node: Achtung, Umlaut, ansonsten komplett problemfrei -->
+<node id="1" lat="5.1234587" lon="3.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- zweite Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="2" lat="7.1234587" lon="4.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- es gibt einen way - von Node 2 nach Node 1, Straße mit ß -->
+<way id="1" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="2" />
+	<nd ref="1" />
+	<tag k="highway" v="motorway" />
+	<tag k="name" v="teststraße" />
+</way>
+
+</osm>

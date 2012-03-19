@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- TestGraph - Hier wird ein gültiger Graph eingelesen und im Test überprüft. Es gibt dabei 11 Knoten und 7 kanten - siehe dazu auch die Dokumentation des Testgraphen -->
+<osm version="0.6" generator="ichwars">
+<bounds minlat="-4.0000001" minlon="-4.0000001" maxlat="4.0000001" maxlon="4.0000001" />
+
+<node id="1" lat="4.0000000" lon="-4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="2" lat="2.0000000" lon="-4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="3" lat="1.0000000" lon="-4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="4" lat="-4.0000000" lon="-4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="5" lat="4.0000000" lon="4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="6" lat="2.0000000" lon="4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="7" lat="1.0000000" lon="4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="8" lat="-4.0000000" lon="4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="9" lat="2.0000000" lon="-1.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="10" lat="2.0000000" lon="1.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="11" lat="1.0000000" lon="-1.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="12" lat="1.0000000" lon="1.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="13" lat="-1.0000000" lon="0.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+
+<way id="1" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="9" />
+	<nd ref="10" />
+	<nd ref="5" />
+	<tag k="highway" v="motorway" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="2" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="4" />
+	<nd ref="11" />
+	<nd ref="12" />
+	<nd ref="7" />
+	<tag k="highway" v="motorway" />
+	<tag k="name" v="teststr. 12" />
+</way>
+
+<way id="3" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="2" />
+	<nd ref="9" />
+	<nd ref="11" />
+	<nd ref="3" />
+	<tag k="highway" v="motorway" />
+	<tag k="name" v="teststr. 13" />
+</way>
+
+<way id="4" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="6" />
+	<nd ref="10" />
+	<nd ref="12" />
+	<nd ref="7" />
+	<tag k="highway" v="motorway" />
+	<tag k="name" v="teststr. 14" />
+</way>
+
+</osm>

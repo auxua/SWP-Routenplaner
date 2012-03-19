@@ -1,0 +1,59 @@
+	    #####################################################
+	    ##						       ##
+	    ##       Hinweise zur Benutzung vom SWP.jar        ##     
+	    ##						       ##
+	    #####################################################
+---------------------------------------------------------------------------------------
+
+1)	Hinweise vfor dem Programmstart
+2)	Ausfuehren des Programms
+3)	Hinweise zur Benutzung des Programms
+
+---------------------------------------------------------------------------------------
+
+1.1) 	Der Ordner testdateien muss im selben Verzeichnis, wie SWP.jar liegen, damit
+	die default- Karte beim Start des Programms geladen wird. Ansonsten wird keine 
+	Karte geladen und man kann manuell eine Karte auswaehlen (siehe 3)
+
+1.2)	Die Default Karte ist testdateien/aachen.osm
+
+1.3)	Der Ordner "documentation" muss sich im selben Ordner, wie "SWP.jar" befinden,
+	damit man sich die Dokumentation bei laufendem Programm anzeigen lassen 	
+	kann (siehe 3)
+
+---------------------------------------------------------------------------------------
+
+2.1)	Das Programm ist mit dem Konsolenbefehl: 
+	" java -jar -Xss300m SWP.jar " ausfuehrbar. Die Stacksize, welche durch die
+	Zahl nach "-Xss " angegeben wird, ist Variabel. Groessere Karten benoetigen 
+	eine groessere Stacksize.
+
+2.2)	Es liegen zwei Shellscripts zur Ausfuerung des Programms unter Windows/ Linux 
+	bei, "SWPExecutionScript.bat", "SWPExecutionScript.sh". Diese muessen sich im 
+	selben Verzeichnis, wie "SWP.jar" befinden.
+
+---------------------------------------------------------------------------------------
+
+3.1)	Um eine neue *.osm Datei zu "preprocessen" waehlt man unter dem Menupunkt
+	"oeffnen" die Option "*.osm preprocessen". Sobald die Karte preprocessed wurde,
+	wird sie angezeigt.
+
+3.2)	Preprocesste Karten werden im Ordner "testdateien", in neu erstellten Ordnern 
+	abgelegt. Preprocessed man eine Datei "NAME.osm", so findet man die zugehoerige
+	"*.tiles" - Datei im Ordner "testdateien/NAME.osm.mapfiles"
+
+3.2)	Um eine bereits preprocesste Karte zu oeffnen waehlt man unter dem Menupunkt
+	"oeffnen" die Option "geproprocesste Karte oeffnen" und waehlt eine "*.tiles"
+	Datei aus. Sobald die benoetigten Informationen in den Speicher geladen wurden,
+	wird die Karte angezeigt.
+
+3.3)	Unter dem Menupunkt "Hilfe" kann man sich Dokumentationen des Projekts anzeigen
+	lassen
+
+	################################################################
+	##							      ##
+	##		VIEL SPASS BEI DER BENUTZUNG! ;-)	      ##
+	##							      ##
+	################################################################
+
+

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2">
+ <bounds minlat="29.8743280" minlon="121.5423590" maxlat="29.8783890" maxlon="121.5477830"/>
+ <node id="443630431" lat="29.8714824" lon="121.5445184" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="10060490" timestamp="2011-12-07T19:50:50Z"/>
+ <node id="775752399" lat="29.8789780" lon="121.5430427" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="5017758" timestamp="2010-06-18T17:02:13Z"/>
+ <node id="440115923" lat="29.8682130" lon="121.5447640" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="5010125" timestamp="2010-06-17T16:26:39Z"/>
+ <node id="775752395" lat="29.8762687" lon="121.5421113" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:51Z"/>
+ <node id="775073415" lat="29.8732823" lon="121.5537701" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="5010125" timestamp="2010-06-17T16:25:41Z"/>
+ <node id="775752393" lat="29.8771519" lon="121.5425645" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="5017758" timestamp="2010-06-18T17:02:13Z"/>
+ <node id="1535695859" lat="29.8791053" lon="121.5484237" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:34Z"/>
+ <node id="423808884" lat="29.8758391" lon="121.5422694" user="Ana Luisa" uid="131670" visible="true" version="4" changeset="8439048" timestamp="2011-06-14T16:20:56Z"/>
+ <node id="443630433" lat="29.8765406" lon="121.5448158" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="8439048" timestamp="2011-06-14T16:20:49Z"/>
+ <node id="440112915" lat="29.8706262" lon="121.5428417" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="10060490" timestamp="2011-12-07T19:50:50Z"/>
+ <node id="423808909" lat="29.8744933" lon="121.5420998" user="Fox" uid="136645" visible="true" version="1" changeset="1553683" timestamp="2009-06-18T12:18:39Z"/>
+ <node id="1535695822" lat="29.8744415" lon="121.5460875" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:33Z"/>
+ <node id="1535695773" lat="29.8726451" lon="121.5430042" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:32Z"/>
+ <node id="1535695811" lat="29.8737354" lon="121.5458699" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:32Z"/>
+ <node id="446102562" lat="29.8772938" lon="121.5362627" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="10060490" timestamp="2011-12-07T19:50:51Z"/>
+ <node id="775752400" lat="29.8761615" lon="121.5423418" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:57Z"/>
+ <node id="1438766301" lat="29.8777667" lon="121.5345139" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="9355827" timestamp="2011-09-20T21:08:26Z"/>
+ <node id="1325293147" lat="29.8779813" lon="121.5475196" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="8439048" timestamp="2011-06-14T16:19:45Z"/>
+ <node id="1535695846" lat="29.8755943" lon="121.5487138" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:33Z"/>
+ <node id="775752404" lat="29.8761594" lon="121.5425691" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:34Z"/>
+ <node id="423808910" lat="29.8744965" lon="121.5419666" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8658460" timestamp="2011-07-07T15:33:54Z"/>
+ <node id="775752389" lat="29.8807282" lon="121.5474782" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="5017758" timestamp="2010-06-18T17:02:13Z"/>
+ <node id="1535695769" lat="29.8724941" lon="121.5443488" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:31Z"/>
+ <node id="440115932" lat="29.8676291" lon="121.5446970" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="5017421" timestamp="2010-06-18T16:09:18Z"/>
+ <node id="1325293345" lat="29.8771814" lon="121.5486312" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="8439048" timestamp="2011-06-14T16:19:48Z"/>
+ <node id="423808883" lat="29.8756040" lon="121.5446071" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="8439048" timestamp="2011-06-14T16:20:35Z"/>
+ <node id="775752390" lat="29.8762872" lon="121.5426096" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:21:05Z"/>
+ <node id="1325335258" lat="29.8760805" lon="121.5411731" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="8439351" timestamp="2011-06-14T16:55:28Z"/>
+ <node id="443630442" lat="29.8806663" lon="121.5473331" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="5010125" timestamp="2010-06-17T16:26:40Z"/>
+ <node id="439233577" lat="29.8767506" lon="121.5381296" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:38Z"/>
+ <node id="775752377" lat="29.8751830" lon="121.5426089" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="5017758" timestamp="2010-06-18T17:02:12Z">
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="name" v="Bank of Ningbo"/>
+ </node>
+ <node id="1535695742" lat="29.8715169" lon="121.5429514" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:31Z"/>
+ <node id="1325293747" lat="29.8753052" lon="121.5464919" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="8439048" timestamp="2011-06-14T16:19:56Z"/>
+ <node id="1535695751" lat="29.8718679" lon="121.5444835" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:31Z"/>
+ <node id="443632523" lat="29.8670625" lon="121.5445400" user="Ana Luisa" uid="131670" visible="true" version="4" changeset="8439048" timestamp="2011-06-14T16:20:44Z"/>
+ <node id="1535695830" lat="29.8745860" lon="121.5443587" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:33Z"/>
+ <node id="423808881" lat="29.8731163" lon="121.5544593" user="Fox" uid="136645" visible="true" version="2" changeset="1574474" timestamp="2009-06-20T14:04:03Z"/>
+ <node id="775752384" lat="29.8763964" lon="121.5421518" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:48Z"/>
+ <node id="440115917" lat="29.8704676" lon="121.5446412" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="8439048" timestamp="2011-06-14T16:20:40Z"/>
+ <node id="423808882" lat="29.8748595" lon="121.5484701" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="8439048" timestamp="2011-06-14T16:21:09Z"/>
+ <node id="1535695800" lat="29.8732245" lon="121.5428547" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:32Z"/>
+ <node id="1325293862" lat="29.8742361" lon="121.5508583" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="8439048" timestamp="2011-06-14T16:19:58Z"/>
+ <node id="1535695848" lat="29.8757486" lon="121.5431693" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:33Z"/>
+ <node id="1325293795" lat="29.8788926" lon="121.5462342" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="8439048" timestamp="2011-06-14T16:19:57Z"/>
+ <node id="775752379" lat="29.8763680" lon="121.5423883" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:52Z"/>
+ <node id="1535695781" lat="29.8730911" lon="121.5448619" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:32Z"/>
+ <node id="1327911340" lat="29.8735813" lon="121.5438179" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="8459990" timestamp="2011-06-16T20:41:44Z"/>
+ <node id="443630437" lat="29.8802195" lon="121.5466502" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="5010125" timestamp="2010-06-17T16:26:53Z"/>
+ <node id="446102554" lat="29.8777384" lon="121.5346411" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:31Z"/>
+ <node id="443630434" lat="29.8779454" lon="121.5451991" user="Ana Luisa" uid="131670" visible="true" version="4" changeset="8439048" timestamp="2011-06-14T16:20:16Z"/>
+ <node id="1535695812" lat="29.8737918" lon="121.5450017" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:32Z"/>
+ <node id="443630435" lat="29.8791740" lon="121.5456157" user="Ana Luisa" uid="131670" visible="true" version="4" changeset="8439048" timestamp="2011-06-14T16:20:37Z"/>
+ <node id="540159932" lat="29.8767190" lon="121.5491973" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:19Z"/>
+ <node id="1010181947" lat="29.8736635" lon="121.5526482" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:18Z"/>
+ <node id="440112931" lat="29.8693449" lon="121.5446838" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="8439048" timestamp="2011-06-14T16:20:20Z"/>
+ <node id="1327911029" lat="29.8740243" lon="121.5442217" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="8459990" timestamp="2011-06-16T20:41:33Z"/>
+ <node id="443630436" lat="29.8796279" lon="121.5459324" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="5010125" timestamp="2010-06-17T16:26:46Z"/>
+ <node id="469196411" lat="29.8736423" lon="121.5479643" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8439048" timestamp="2011-06-14T16:20:41Z"/>
+ <node id="1535695828" lat="29.8745601" lon="121.5451550" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:33Z"/>
+ <node id="423808908" lat="29.8743332" lon="121.5428001" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="10060490" timestamp="2011-12-07T19:50:50Z"/>
+ <node id="443630432" lat="29.8732617" lon="121.5441837" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8459990" timestamp="2011-06-16T20:42:58Z"/>
+ <node id="775073654" lat="29.8730264" lon="121.5551885" user="Ana Luisa" uid="131670" visible="true" version="4" changeset="8693740" timestamp="2011-07-11T13:16:26Z"/>
+ <node id="540159905" lat="29.8808202" lon="121.5477233" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="8439048" timestamp="2011-06-14T16:20:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1535695851" lat="29.8760679" lon="121.5466403" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:34Z"/>
+ <node id="1535695840" lat="29.8749245" lon="121.5431624" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:33Z"/>
+ <node id="1535695858" lat="29.8763032" lon="121.5401616" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:34Z"/>
+ <way id="130704936" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="10060490" timestamp="2011-12-07T19:50:50Z">
+  <nd ref="1438766301"/>
+  <nd ref="446102554"/>
+  <nd ref="446102562"/>
+  <nd ref="439233577"/>
+  <nd ref="1535695858"/>
+  <nd ref="1325335258"/>
+  <nd ref="423808884"/>
+  <nd ref="1535695848"/>
+  <nd ref="423808883"/>
+  <nd ref="1325293747"/>
+  <nd ref="423808882"/>
+  <nd ref="1325293862"/>
+  <nd ref="1010181947"/>
+  <nd ref="775073415"/>
+  <nd ref="423808881"/>
+  <nd ref="775073654"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="中山路 Zhongshan Road"/>
+  <tag k="name:en" v="Zhongshan Road"/>
+  <tag k="name:zh" v="中山路"/>
+ </way>
+ <way id="62126007" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="5017758" timestamp="2010-06-18T17:02:17Z">
+  <nd ref="540159905"/>
+  <nd ref="775752389"/>
+  <nd ref="443630442"/>
+  <nd ref="443630437"/>
+  <nd ref="443630436"/>
+  <nd ref="443630435"/>
+  <nd ref="443630434"/>
+  <nd ref="443630433"/>
+  <nd ref="423808883"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Jiefang Bei Lu"/>
+ </way>
+ <way id="140169709" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:36Z">
+  <nd ref="1535695828"/>
+  <nd ref="1535695812"/>
+  <nd ref="1535695781"/>
+  <tag k="highway" v="road"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="36335029" user="Ana Luisa" uid="131670" visible="true" version="6" changeset="5017758" timestamp="2010-06-18T17:02:18Z">
+  <nd ref="775752399"/>
+  <nd ref="775752393"/>
+  <nd ref="775752379"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+ </way>
+ <way id="140169721" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:38Z">
+  <nd ref="469196411"/>
+  <nd ref="1535695822"/>
+  <nd ref="1535695828"/>
+  <nd ref="1535695830"/>
+  <tag k="highway" v="road"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="62186611" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="5017758" timestamp="2010-06-18T17:02:13Z">
+  <nd ref="775752379"/>
+  <nd ref="775752400"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="37827497" user="Ana Luisa" uid="131670" visible="true" version="3" changeset="10060490" timestamp="2011-12-07T19:50:46Z">
+  <nd ref="443630432"/>
+  <nd ref="1327911340"/>
+  <nd ref="423808908"/>
+  <nd ref="423808909"/>
+  <nd ref="423808910"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="62186613" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="5017758" timestamp="2010-06-18T17:02:14Z">
+  <nd ref="775752384"/>
+  <nd ref="775752395"/>
+  <nd ref="775752404"/>
+  <nd ref="775752390"/>
+  <nd ref="775752384"/>
+  <tag k="building" v="yes"/>
+  <tag k="fee" v="no"/>
+  <tag k="fixme" v="size of building is estimated, please correct when possible"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="Drum Tower"/>
+  <tag k="tourism" v="attraction"/>
+ </way>
+ <way id="62186616" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="10060490" timestamp="2011-12-07T19:50:45Z">
+  <nd ref="775752393"/>
+  <nd ref="443630433"/>
+  <nd ref="1535695851"/>
+  <nd ref="1535695846"/>
+  <tag k="highway" v="road"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="140169714" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:37Z">
+  <nd ref="1325293747"/>
+  <nd ref="1535695822"/>
+  <nd ref="1535695811"/>
+  <tag k="highway" v="road"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="140169718" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:37Z">
+  <nd ref="1535695859"/>
+  <nd ref="1325293147"/>
+  <nd ref="1535695851"/>
+  <nd ref="1325293747"/>
+  <tag k="highway" v="road"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="140169731" user="Ana Luisa" uid="131670" visible="true" version="1" changeset="10060490" timestamp="2011-12-07T19:50:39Z">
+  <nd ref="440112915"/>
+  <nd ref="1535695742"/>
+  <nd ref="1535695773"/>
+  <nd ref="1535695800"/>
+  <nd ref="423808908"/>
+  <nd ref="1535695840"/>
+  <nd ref="1535695848"/>
+  <tag k="highway" v="road"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="117684085" user="Ana Luisa" uid="131670" visible="true" version="2" changeset="8452029" timestamp="2011-06-15T23:12:12Z">
+  <nd ref="443630435"/>
+  <nd ref="1325293795"/>
+  <nd ref="1325293147"/>
+  <nd ref="1325293345"/>
+  <nd ref="540159932"/>
+  <tag k="highway" v="road"/>
+ </way>
+ <way id="36335028" user="Ana Luisa" uid="131670" visible="true" version="7" changeset="10060490" timestamp="2011-12-07T19:50:44Z">
+  <nd ref="423808883"/>
+  <nd ref="1535695830"/>
+  <nd ref="1327911029"/>
+  <nd ref="443630432"/>
+  <nd ref="1535695769"/>
+  <nd ref="1535695751"/>
+  <nd ref="443630431"/>
+  <nd ref="440115917"/>
+  <nd ref="440112931"/>
+  <nd ref="440115923"/>
+  <nd ref="440115932"/>
+  <nd ref="443632523"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name:en" v="Jiefang Nan Lu"/>
+ </way>
+</osm>

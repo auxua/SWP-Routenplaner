@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osm version="0.6" generator="ichwars">
+<bounds minlat="-4.0000001" minlon="-4.0000001" maxlat="4.0000001" maxlon="4.0000001" />
+
+<node id="1" lat="4.0000000" lon="-4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="2" lat="2.0000000" lon="-4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="3" lat="1.0000000" lon="-4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="4" lat="-4.0000000" lon="-4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="5" lat="4.0000000" lon="4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="6" lat="2.0000000" lon="4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="7" lat="1.0000000" lon="4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="8" lat="-4.0000000" lon="4.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="9" lat="2.0000000" lon="-1.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="10" lat="2.0000000" lon="1.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="11" lat="1.0000000" lon="-1.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="12" lat="1.0000000" lon="1.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="13" lat="-1.0000000" lon="0.0000000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="14" lat="-1.0030000" lon="0.0030000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<node id="15" lat="-1.0050000" lon="0.0050000" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<way id="1" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="2" />
+	<tag k="highway" v="path" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="2" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="3" />
+	<tag k="highway" v="bridleway" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="3" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="4" />
+	<tag k="highway" v="cycleway" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="4" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="5" />
+	<tag k="highway" v="footway" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="5" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="6" />
+	<tag k="highway" v="pedestrian" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="6" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="7" />
+	<tag k="highway" v="track" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="7" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="8" />
+	<tag k="highway" v="byway" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="8" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="9" />
+	<tag k="highway" v="steps" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="9" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="10" />
+	<tag k="highway" v="proposed" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<!-- Diese ways sollen importiert werden -->
+<way id="10" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="11" />
+	<tag k="highway" v="motorway_link" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="11" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="12" />
+	<tag k="highway" v="trunk_link" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="12" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="13" />
+	<tag k="highway" v="primary_link" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="12" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="14" />
+	<tag k="highway" v="unclassified" />
+	<tag k="motorcar" v="no" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+<way id="13" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="15" />
+	<tag k="highway" v="unclassified" />
+	<tag k="motorcar" v="delivery" />
+	<tag k="name" v="teststr. 10" />
+</way>
+
+</osm>

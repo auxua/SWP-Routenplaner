@@ -1,0 +1,32 @@
+/**
+	 * Laedt bereits fertig importierte .graph Dateien zur benutzung wieder in erinnerung.
+	 * Dazu bitte OSM Importer mit dem Verzeichnis in dem die Dateien liegen initialisieren.
+	 */
+	public void loadPreProcessedTiles(){
+
+		File file = new File(workfolder);
+		File[] filearray = file.listFiles();	
+		MapGraph graph;
+		
+		for(File i: filearray){
+			String filename = i.getName();
+			if(filename.endsWith(".graph0")){
+				
+				logger.log("OSMImporter","loaded Tile : "+filename);
+				graph = LoadSaveObject.loadMGraph(i);
+				
+				String[] filenames = filename.split("g");
+				//logger.log("OSMImp", filenames[0]);
+				filename = filenames[0]+"graph";
+				
+				Tile tile = new Tile(filename,graph.getUpperLeft(), graph.getLowerRight(), graph.getSize());
+				Iterator<MapNode> it = graph.getNodeIt();
+				while(it.hasNext()){
+					MapNode node = it.next();
+					tile.addNode(node.getUID());
+				}
+				tiles.add(tile);
+				graph=null;
+			}				
+		}
+	}

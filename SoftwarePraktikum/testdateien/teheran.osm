@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2">
+ <bounds minlat="35.6842400" minlon="51.4122800" maxlat="35.6918500" maxlon="51.4233100"/>
+ <node id="27079266" lat="35.6859595" lon="51.4148572" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:56:35Z">
+  <tag k="created_by" v="YahooApplet 1.0"/>
+ </node>
+ <node id="660628362" lat="35.7139886" lon="51.4602725" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:03:46Z"/>
+ <node id="26841408" lat="35.6819091" lon="51.4093809" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:17:33Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="660628854" lat="35.7330377" lon="51.5146141" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:07:26Z"/>
+ <node id="26842275" lat="35.6861886" lon="51.4178922" user="Claudius Henrichs" uid="18069" visible="true" version="3" changeset="4413763" timestamp="2010-04-13T13:25:32Z">
+  <tag k="name" v="موزهٔ پست و مخابرات"/>
+  <tag k="name:en" v="Post &amp; Telecommunication Museum"/>
+  <tag k="tourism" v="museum"/>
+ </node>
+ <node id="27078726" lat="35.7012417" lon="51.4192077" user="kesler" uid="13908" visible="true" version="6" changeset="8502849" timestamp="2011-06-21T09:45:32Z"/>
+ <node id="659767093" lat="35.6856217" lon="51.4220597" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:13Z"/>
+ <node id="447880534" lat="35.6965807" lon="51.4234806" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1935954" timestamp="2009-07-25T17:21:44Z"/>
+ <node id="27079336" lat="35.6858628" lon="51.4150933" user="iran_provinces" uid="165898" visible="true" version="2" changeset="2340281" timestamp="2009-09-01T18:26:16Z">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="public_transport" v="stop_position"/>
+ </node>
+ <node id="660628627" lat="35.7270543" lon="51.4764731" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:04:35Z"/>
+ <node id="660628365" lat="35.7184225" lon="51.4645104" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:03:46Z"/>
+ <node id="1534383973" lat="35.6889236" lon="51.4203312" user="Hooman Mesgary" uid="7161" visible="true" version="1" changeset="10052529" timestamp="2011-12-06T19:10:04Z"/>
+ <node id="424289859" lat="35.6843458" lon="51.4356822" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1557913" timestamp="2009-06-18T20:43:21Z"/>
+ <node id="27079121" lat="35.6972705" lon="51.4235635" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:47:21Z">
+  <tag k="created_by" v="YahooApplet 1.0"/>
+ </node>
+ <node id="25971740" lat="35.6947709" lon="51.4197983" user="vmoghiti" uid="238107" visible="true" version="10" changeset="5553575" timestamp="2010-08-21T17:11:28Z"/>
+ <node id="26841407" lat="35.6810688" lon="51.4176853" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:17:32Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="659767091" lat="35.6855520" lon="51.4211906" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:13Z"/>
+ <node id="1510047637" lat="35.6885297" lon="51.4189939" user="Hooman Mesgary" uid="7161" visible="true" version="1" changeset="9886768" timestamp="2011-11-20T16:59:07Z"/>
+ <node id="27034319" lat="35.6827656" lon="51.4226101" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T18:04:58Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842272" lat="35.6858799" lon="51.4164612" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:48:28Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842279" lat="35.6855787" lon="51.4202682" user="Claudius Henrichs" uid="18069" visible="true" version="7" changeset="5581978" timestamp="2010-08-24T17:33:54Z">
+  <tag k="name" v="امام خومینی"/>
+  <tag k="name:en" v="Emam Khomeyni"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="station"/>
+  <tag k="subway" v="yes"/>
+ </node>
+ <node id="411824547" lat="35.6868330" lon="51.4223923" user="vmoghiti" uid="238107" visible="true" version="2" changeset="4024822" timestamp="2010-03-03T14:29:30Z"/>
+ <node id="426969071" lat="35.6879545" lon="51.3951332" user="robert" uid="1295" visible="true" version="1" changeset="1576348" timestamp="2009-06-20T17:42:16Z"/>
+ <node id="411824541" lat="35.6864289" lon="51.4294364" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1335740" timestamp="2009-05-27T17:42:34Z"/>
+ <node id="1534383974" lat="35.6889797" lon="51.4189814" user="Hooman Mesgary" uid="7161" visible="true" version="1" changeset="10052529" timestamp="2011-12-06T19:10:04Z"/>
+ <node id="424398195" lat="35.6889120" lon="51.4225542" user="IknowJoseph" uid="30587" visible="true" version="1" changeset="1558635" timestamp="2009-06-18T21:42:03Z"/>
+ <node id="27033165" lat="35.6846925" lon="51.4149194" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T17:26:31Z">
+  <tag k="amenity" v="public_building"/>
+  <tag k="created_by" v="JOSM"/>
+  <tag k="name:fa" v="ادارهٔ املاک شهرداری منطقهٔ ۱۲"/>
+ </node>
+ <node id="26842277" lat="35.6858517" lon="51.4142120" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:53:20Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="1500311005" lat="35.6866693" lon="51.4147728" user="smostafa" uid="552939" visible="true" version="1" changeset="9806950" timestamp="2011-11-12T18:12:44Z"/>
+ <node id="26461631" lat="35.6680977" lon="51.4158466" user="Roozbeh" uid="6069" visible="true" version="1" changeset="233398" timestamp="2007-03-10T15:59:05Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26208967" lat="35.6781495" lon="51.4173518" user="makracht" uid="44786" visible="true" version="5" changeset="705183" timestamp="2008-11-07T16:22:48Z"/>
+ <node id="1410146019" lat="35.6929263" lon="51.4142053" user="ffathead" uid="215700" visible="true" version="1" changeset="9105120" timestamp="2011-08-23T16:22:28Z"/>
+ <node id="866847572" lat="35.6877282" lon="51.3968821" user="vmoghiti" uid="238107" visible="true" version="1" changeset="5527246" timestamp="2010-08-18T15:20:16Z"/>
+ <node id="424283355" lat="35.6865277" lon="51.4194378" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1557913" timestamp="2009-06-18T20:37:22Z"/>
+ <node id="660628275" lat="35.7023932" lon="51.4420657" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:01:18Z"/>
+ <node id="423733343" lat="35.6872356" lon="51.4006882" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1551144" timestamp="2009-06-18T04:38:04Z"/>
+ <node id="411824548" lat="35.6889734" lon="51.4225613" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1335740" timestamp="2009-05-27T17:42:35Z"/>
+ <node id="447880567" lat="35.6926858" lon="51.4199883" user="Maarten Deen" uid="9176" visible="true" version="3" changeset="5342526" timestamp="2010-07-28T21:50:48Z"/>
+ <node id="1500311003" lat="35.6866867" lon="51.4144080" user="smostafa" uid="552939" visible="true" version="1" changeset="9806950" timestamp="2011-11-12T18:12:44Z"/>
+ <node id="659776856" lat="35.6885248" lon="51.4203675" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T14:17:51Z"/>
+ <node id="660628274" lat="35.7009818" lon="51.4389114" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:01:18Z"/>
+ <node id="424289398" lat="35.6888561" lon="51.4240212" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1557913" timestamp="2009-06-18T20:42:47Z"/>
+ <node id="27034295" lat="35.6841839" lon="51.4226927" user="vmoghiti" uid="238107" visible="true" version="2" changeset="4024822" timestamp="2010-03-03T14:12:03Z"/>
+ <node id="26842274" lat="35.6864878" lon="51.4188341" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:48:30Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="660628700" lat="35.7357985" lon="51.4879851" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:05:55Z"/>
+ <node id="1500310992" lat="35.6875320" lon="51.4147514" user="smostafa" uid="552939" visible="true" version="1" changeset="9806950" timestamp="2011-11-12T18:12:43Z"/>
+ <node id="411824546" lat="35.6860313" lon="51.4223923" user="vmoghiti" uid="238107" visible="true" version="2" changeset="4024822" timestamp="2010-03-03T13:48:09Z"/>
+ <node id="26841409" lat="35.6812017" lon="51.4175167" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:17:33Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26841414" lat="35.6782228" lon="51.4173594" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T17:45:03Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842282" lat="35.6859575" lon="51.4192105" user="Claudius Henrichs" uid="18069" visible="true" version="3" changeset="4413763" timestamp="2010-04-13T13:25:31Z">
+  <tag k="amenity" v="atm"/>
+  <tag k="name" v="بانک سپه"/>
+  <tag k="name:en" v="Sepah Bank"/>
+ </node>
+ <node id="660628669" lat="35.7316913" lon="51.4825627" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:05:06Z">
+  <tag k="name" v="Golbarg- گلبرگ"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="660628461" lat="35.7239449" lon="51.4720957" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:04:13Z"/>
+ <node id="424397976" lat="35.6890738" lon="51.4203175" user="Maarten Deen" uid="9176" visible="true" version="3" changeset="5342526" timestamp="2010-07-28T21:51:44Z"/>
+ <node id="427203301" lat="35.6695085" lon="51.4160478" user="robert" uid="1295" visible="true" version="1" changeset="1579256" timestamp="2009-06-20T23:36:59Z"/>
+ <node id="316059968" lat="35.7081153" lon="51.3507344" user="vmoghiti" uid="238107" visible="true" version="3" changeset="3979720" timestamp="2010-02-26T12:38:10Z"/>
+ <node id="31004159" lat="35.7179137" lon="51.3354995" user="vmoghiti" uid="238107" visible="true" version="9" changeset="3979720" timestamp="2010-02-26T12:38:10Z"/>
+ <node id="447880524" lat="35.6909208" lon="51.4142305" user="ffathead" uid="215700" visible="true" version="2" changeset="9105120" timestamp="2011-08-23T16:22:36Z"/>
+ <node id="660623344" lat="35.6873028" lon="51.4212713" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040021" timestamp="2010-03-05T11:37:54Z"/>
+ <node id="411824441" lat="35.7015435" lon="51.4240741" user="Cicerone" uid="150368" visible="true" version="2" changeset="2183457" timestamp="2009-08-17T22:06:31Z"/>
+ <node id="936352576" lat="35.7013829" lon="51.3629182" user="FarsiTel project" uid="334158" visible="true" version="2" changeset="6237320" timestamp="2010-10-31T11:30:47Z"/>
+ <node id="29364378" lat="35.6910240" lon="51.3883576" user="vmoghiti" uid="238107" visible="true" version="4" changeset="3990644" timestamp="2010-02-27T17:39:58Z"/>
+ <node id="26842283" lat="35.6858309" lon="51.4195813" user="vmoghiti" uid="238107" visible="true" version="4" changeset="4024822" timestamp="2010-03-03T14:05:29Z"/>
+ <node id="660628664" lat="35.7325326" lon="51.4835755" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:04:56Z"/>
+ <node id="659767089" lat="35.6857350" lon="51.4206113" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:12Z"/>
+ <node id="26461642" lat="35.6728137" lon="51.4165192" user="Roozbeh" uid="6069" visible="true" version="1" changeset="233398" timestamp="2007-03-10T15:59:12Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="27079288" lat="35.6859584" lon="51.4145903" user="BiIbo" uid="3516" visible="true" version="2" changeset="411090" timestamp="2009-02-13T22:17:26Z">
+  <tag k="barrier" v="gate"/>
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842284" lat="35.6886469" lon="51.4168281" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:48:39Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842292" lat="35.6887039" lon="51.4143400" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:48:46Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842287" lat="35.6869983" lon="51.4164044" user="Claudius Henrichs" uid="18069" visible="true" version="3" changeset="4413763" timestamp="2010-04-13T13:25:30Z">
+  <tag k="amenity" v="library"/>
+  <tag k="name" v="کتابخانه و موزهٔ ملی ملک"/>
+  <tag k="tourism" v="museum"/>
+ </node>
+ <node id="26842290" lat="35.6885075" lon="51.4166831" user="iran_provinces" uid="165898" visible="true" version="2" changeset="2340281" timestamp="2009-09-01T18:26:17Z"/>
+ <node id="660628701" lat="35.7361729" lon="51.4894442" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:05:55Z"/>
+ <node id="27033388" lat="35.6825549" lon="51.4179173" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T17:42:11Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="660623345" lat="35.6881480" lon="51.4223871" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040021" timestamp="2010-03-05T11:37:54Z"/>
+ <node id="434488874" lat="35.6835196" lon="51.4207229" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1740481" timestamp="2009-07-05T16:39:28Z"/>
+ <node id="434488864" lat="35.6840505" lon="51.4181353" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1740481" timestamp="2009-07-05T16:39:27Z"/>
+ <node id="660628273" lat="35.6911359" lon="51.4323239" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:01:18Z"/>
+ <node id="27034323" lat="35.6857681" lon="51.4238425" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T18:20:00Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="660628460" lat="35.7238049" lon="51.4719033" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:04:13Z">
+  <tag k="name" v="Nezam Abad- نظام‌آباد"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="660628705" lat="35.7355767" lon="51.4949669" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:05:57Z">
+  <tag k="name" v="Sarsabz- سرسبز"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="411824514" lat="35.6856128" lon="51.4318090" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1335740" timestamp="2009-05-27T17:42:32Z"/>
+ <node id="27033154" lat="35.6844585" lon="51.4148700" user="BiIbo" uid="3516" visible="true" version="2" changeset="411090" timestamp="2009-02-13T22:02:26Z">
+  <tag k="barrier" v="gate"/>
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="27079289" lat="35.6863413" lon="51.4145931" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:56:22Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="447880575" lat="35.6908105" lon="51.4183204" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1935954" timestamp="2009-07-25T17:21:48Z"/>
+ <node id="660628921" lat="35.7306760" lon="51.5319194" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:08:32Z">
+  <tag k="name" v="Tehran Pars- تهرانپارس"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="316060187" lat="35.7027904" lon="51.3601243" user="vmoghiti" uid="238107" visible="true" version="2" changeset="3979720" timestamp="2010-02-26T12:38:10Z"/>
+ <node id="411824544" lat="35.6855784" lon="51.4226901" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1335740" timestamp="2009-05-27T17:42:34Z"/>
+ <node id="27033147" lat="35.6846389" lon="51.4157005" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T17:26:25Z">
+  <tag k="amenity" v="courthouse"/>
+  <tag k="created_by" v="JOSM"/>
+  <tag k="name:fa" v="دادسرای عمومی و انقلاب تهران (ناحیهٔ ۱۲)"/>
+ </node>
+ <node id="26842280" lat="35.6862288" lon="51.4202379" user="CvR" uid="28052" visible="true" version="2" changeset="373647" timestamp="2008-03-22T19:02:56Z">
+  <tag k="created_by" v="JOSM"/>
+  <tag k="tourism" v="museum"/>
+ </node>
+ <node id="659767084" lat="35.6860487" lon="51.4221562" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:11Z"/>
+ <node id="426969074" lat="35.6877784" lon="51.3964943" user="robert" uid="1295" visible="true" version="1" changeset="1576348" timestamp="2009-06-20T17:42:16Z"/>
+ <node id="26841410" lat="35.6841459" lon="51.4179379" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:17:34Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842278" lat="35.6858989" lon="51.4122500" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:48:34Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26458951" lat="35.6882146" lon="51.3931326" user="vmoghiti" uid="238107" visible="true" version="3" changeset="7457003" timestamp="2011-03-04T18:59:38Z"/>
+ <node id="411824473" lat="35.6936079" lon="51.4231235" user="vmoghiti" uid="238107" visible="true" version="2" changeset="5553575" timestamp="2010-08-21T17:11:28Z"/>
+ <node id="1500311001" lat="35.6875320" lon="51.4144510" user="smostafa" uid="552939" visible="true" version="1" changeset="9806950" timestamp="2011-11-12T18:12:44Z"/>
+ <node id="26842271" lat="35.6844261" lon="51.4163712" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:48:28Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="27033474" lat="35.6823704" lon="51.4207325" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T17:41:56Z">
+  <tag k="created_by" v="YahooApplet 1.0"/>
+ </node>
+ <node id="1333387875" lat="35.6900138" lon="51.4202319" user="kesler" uid="13908" visible="true" version="1" changeset="8502849" timestamp="2011-06-21T09:45:02Z"/>
+ <node id="26879628" lat="35.6842231" lon="51.4181605" user="Roozbeh" uid="6069" visible="true" version="1" changeset="249549" timestamp="2007-03-29T14:31:34Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="431012284" lat="35.6860956" lon="51.4304054" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1683901" timestamp="2009-06-30T04:33:43Z"/>
+ <node id="660628706" lat="35.7353282" lon="51.4967720" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:05:57Z"/>
+ <node id="660628852" lat="35.7343133" lon="51.5052239" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:07:26Z">
+  <tag k="name" v="Mirdamad- دانشگاه علم و سنعت"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="316060188" lat="35.7007174" lon="51.3642392" user="vmoghiti" uid="238107" visible="true" version="3" changeset="3990644" timestamp="2010-02-27T17:44:21Z"/>
+ <node id="660628922" lat="35.7303988" lon="51.5339367" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:08:32Z"/>
+ <node id="660628699" lat="35.7351017" lon="51.4866654" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:05:54Z"/>
+ <node id="659782107" lat="35.6923468" lon="51.4330148" user="Esperanza36" uid="83557" visible="true" version="2" changeset="4040137" timestamp="2010-03-05T12:01:18Z">
+  <tag k="name" v="ايستگاه بهارستان"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="660628277" lat="35.7034853" lon="51.4473246" user="max-irani" uid="322156" visible="true" version="2" changeset="9220499" timestamp="2011-09-05T18:28:06Z">
+  <tag k="name" v="امام حسین"/>
+  <tag k="name:en" v="Emam Hoseyn"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="28839114" lat="35.7160749" lon="51.3434350" user="vmoghiti" uid="238107" visible="true" version="3" changeset="3990644" timestamp="2010-02-27T17:45:48Z"/>
+ <node id="316059967" lat="35.7172029" lon="51.3418166" user="vmoghiti" uid="238107" visible="true" version="3" changeset="3979720" timestamp="2010-02-26T12:38:10Z"/>
+ <node id="411824543" lat="35.6864568" lon="51.4286296" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1335740" timestamp="2009-05-27T17:42:34Z"/>
+ <node id="426965557" lat="35.6867078" lon="51.4053536" user="robert" uid="1295" visible="true" version="1" changeset="1576305" timestamp="2009-06-20T17:36:31Z"/>
+ <node id="660628272" lat="35.6901774" lon="51.4311008" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:01:18Z"/>
+ <node id="660628364" lat="35.7182494" lon="51.4643631" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:03:46Z">
+  <tag k="name" v="Sabalan- سبلان"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="660627035" lat="35.6992654" lon="51.4372806" user="Claudius Henrichs" uid="18069" visible="true" version="3" changeset="5581978" timestamp="2010-08-24T17:33:53Z">
+  <tag k="name" v="دروازه شمیران"/>
+  <tag k="name:en" v="Darvaze Shemiran"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="660628855" lat="35.7326266" lon="51.5175105" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:07:26Z">
+  <tag k="name" v="Shahid Baqeri- شهید باقری"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="659767090" lat="35.6855694" lon="51.4208258" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:13Z"/>
+ <node id="659767085" lat="35.6860487" lon="51.4219309" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:12Z"/>
+ <node id="26461650" lat="35.6774370" lon="51.4172381" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:17:48Z">
+  <tag k="created_by" v="JOSM"/>
+  <tag k="highway" v="bus_stop"/>
+ </node>
+ <node id="411824545" lat="35.6856272" lon="51.4224927" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1335740" timestamp="2009-05-27T17:42:35Z"/>
+ <node id="27074511" lat="35.6946300" lon="51.3789759" user="vmoghiti" uid="238107" visible="true" version="3" changeset="3990644" timestamp="2010-02-27T17:38:40Z"/>
+ <node id="25960293" lat="35.6884244" lon="51.4179604" user="free edit" uid="242896" visible="true" version="32" changeset="10184620" timestamp="2011-12-23T04:53:44Z">
+  <tag k="alt_name:vi" v="Têhêrăng"/>
+  <tag k="capital" v="yes"/>
+  <tag k="importance" v="international"/>
+  <tag k="is_in" v="Iran"/>
+  <tag k="is_in:continent" v="Asia"/>
+  <tag k="name" v="تهران Tehran"/>
+  <tag k="name:cs" v="Teherán"/>
+  <tag k="name:de" v="Teheran"/>
+  <tag k="name:el" v="Τεχεράνη"/>
+  <tag k="name:en" v="Tehran"/>
+  <tag k="name:es" v="Teherán"/>
+  <tag k="name:et" v="Teheran"/>
+  <tag k="name:eu" v="Teheran"/>
+  <tag k="name:fi" v="Teheran"/>
+  <tag k="name:fr" v="Téhéran"/>
+  <tag k="name:he" v="טהרן"/>
+  <tag k="name:hr" v="Teheran"/>
+  <tag k="name:hu" v="Teherán"/>
+  <tag k="name:is" v="Teheran"/>
+  <tag k="name:it" v="Teheran"/>
+  <tag k="name:lv" v="Teherāna"/>
+  <tag k="name:nl" v="Teheran"/>
+  <tag k="name:pt" v="Teerã"/>
+  <tag k="name:ru" v="Тегеран"/>
+  <tag k="name:sk" v="Teherán"/>
+  <tag k="name:sl" v="Teheran"/>
+  <tag k="name:sv" v="Teheran"/>
+  <tag k="name:vi" v="Tehran"/>
+  <tag k="place" v="city"/>
+  <tag k="population" v="8000000"/>
+  <tag k="rank" v="0"/>
+  <tag k="wikipedia" v="Tehran"/>
+ </node>
+ <node id="660628698" lat="35.7335777" lon="51.4848201" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:05:54Z"/>
+ <node id="26842289" lat="35.6880727" lon="51.4166831" user="iran_provinces" uid="165898" visible="true" version="2" changeset="2340281" timestamp="2009-09-01T18:26:16Z"/>
+ <node id="434488873" lat="35.6848582" lon="51.4207118" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1740481" timestamp="2009-07-05T16:39:28Z"/>
+ <node id="659785113" lat="35.6852708" lon="51.4141082" user="vmoghiti" uid="238107" visible="true" version="2" changeset="4025414" timestamp="2010-03-03T14:44:45Z">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="ايستگاه فياض بخش"/>
+ </node>
+ <node id="26879629" lat="35.6850474" lon="51.4099089" user="Roozbeh" uid="6069" visible="true" version="1" changeset="249549" timestamp="2007-03-29T14:31:35Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842276" lat="35.6861256" lon="51.4101438" user="Mirko Küster" uid="60345" visible="true" version="3" changeset="2984818" timestamp="2009-10-29T22:28:33Z"/>
+ <node id="440985122" lat="35.6858555" lon="51.4145100" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1812415" timestamp="2009-07-12T23:39:17Z"/>
+ <node id="27079311" lat="35.6885222" lon="51.4191325" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:58:34Z">
+  <tag k="created_by" v="YahooApplet 1.0"/>
+ </node>
+ <node id="426967665" lat="35.6866100" lon="51.4061584" user="robert" uid="1295" visible="true" version="1" changeset="1576336" timestamp="2009-06-20T17:39:32Z"/>
+ <node id="659767087" lat="35.6859790" lon="51.4210190" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:12Z"/>
+ <node id="27079290" lat="35.6873864" lon="51.4145737" user="Claudius Henrichs" uid="18069" visible="true" version="2" changeset="4413763" timestamp="2010-04-13T13:25:30Z">
+  <tag k="amenity" v="public_building"/>
+  <tag k="name" v="کتابخانهٔ ملی جمهوری اسلامی ایران"/>
+  <tag k="name:en" v="National Library"/>
+ </node>
+ <node id="27033534" lat="35.6821526" lon="51.4225779" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T17:42:19Z">
+  <tag k="created_by" v="YahooApplet 1.0"/>
+ </node>
+ <node id="27034324" lat="35.6873815" lon="51.4238624" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T18:20:05Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842288" lat="35.6880773" lon="51.4151172" user="iran_provinces" uid="165898" visible="true" version="2" changeset="2340281" timestamp="2009-09-01T18:26:16Z"/>
+ <node id="26461643" lat="35.6780099" lon="51.4173226" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T17:48:20Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="426965559" lat="35.6864089" lon="51.4078130" user="robert" uid="1295" visible="true" version="1" changeset="1576305" timestamp="2009-06-20T17:36:31Z"/>
+ <node id="26842285" lat="35.6858925" lon="51.4169367" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:48:40Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26841411" lat="35.6849518" lon="51.4100291" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:17:34Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="660628856" lat="35.7324803" lon="51.5185408" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:07:26Z"/>
+ <node id="423834463" lat="35.6903352" lon="51.4109325" user="IknowJoseph" uid="30587" visible="true" version="1" changeset="1554331" timestamp="2009-06-18T13:48:57Z"/>
+ <node id="660628304" lat="35.7077251" lon="51.4517431" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:02:02Z"/>
+ <node id="424283278" lat="35.6950267" lon="51.4142283" user="ffathead" uid="215700" visible="true" version="3" changeset="9105120" timestamp="2011-08-23T16:22:36Z"/>
+ <node id="1510047657" lat="35.6900558" lon="51.4189515" user="Hooman Mesgary" uid="7161" visible="true" version="1" changeset="9886768" timestamp="2011-11-20T16:59:07Z"/>
+ <node id="27079287" lat="35.6859543" lon="51.4142934" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:56:20Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="532685797" lat="35.6944833" lon="51.4198246" user="Maarten Deen" uid="9176" visible="true" version="3" changeset="5342526" timestamp="2010-07-28T21:51:41Z"/>
+ <node id="447880531" lat="35.6927129" lon="51.4230149" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1935954" timestamp="2009-07-25T17:21:44Z"/>
+ <node id="26842291" lat="35.6885402" lon="51.4151287" user="iran_provinces" uid="165898" visible="true" version="2" changeset="2340281" timestamp="2009-09-01T18:26:17Z"/>
+ <node id="654082931" lat="35.6861102" lon="51.4101402" user="vmoghiti" uid="238107" visible="true" version="1" changeset="3979720" timestamp="2010-02-26T12:38:11Z"/>
+ <node id="1333387955" lat="35.6967153" lon="51.4196212" user="kesler" uid="13908" visible="true" version="1" changeset="8502849" timestamp="2011-06-21T09:45:04Z"/>
+ <node id="447880574" lat="35.6909290" lon="51.4183290" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1935954" timestamp="2009-07-25T17:21:48Z"/>
+ <node id="660628271" lat="35.6859598" lon="51.4226679" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:01:17Z"/>
+ <node id="27079268" lat="35.6868365" lon="51.4145651" user="Claudius Henrichs" uid="18069" visible="true" version="4" changeset="4413763" timestamp="2010-04-13T13:25:31Z">
+  <tag k="name" v="موزهٔ ملی ایران"/>
+  <tag k="name:en" v="National Museum of Iran"/>
+  <tag k="tourism" v="museum"/>
+ </node>
+ <node id="428281575" lat="35.6864847" lon="51.4169133" user="mapper_07" uid="12295" visible="true" version="1" changeset="1600411" timestamp="2009-06-23T10:10:00Z"/>
+ <node id="660628663" lat="35.7306165" lon="51.4812688" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:04:56Z"/>
+ <node id="447880566" lat="35.6909637" lon="51.4201453" user="Maarten Deen" uid="9176" visible="true" version="3" changeset="5342526" timestamp="2010-07-28T21:51:06Z"/>
+ <node id="411824539" lat="35.6840586" lon="51.4365603" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1335740" timestamp="2009-05-27T17:42:34Z"/>
+ <node id="660628853" lat="35.7342744" lon="51.5055482" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:07:26Z"/>
+ <node id="660628363" lat="35.7145897" lon="51.4612488" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:03:46Z"/>
+ <node id="27034325" lat="35.6884902" lon="51.4269985" user="Roozbeh" uid="6069" visible="true" version="1" changeset="5920" timestamp="2007-04-03T18:23:51Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="659767088" lat="35.6859442" lon="51.4207507" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:12Z"/>
+ <node id="836859729" lat="35.6947723" lon="51.4142516" user="ffathead" uid="215700" visible="true" version="2" changeset="9105120" timestamp="2011-08-23T16:22:36Z"/>
+ <node id="654082930" lat="35.6875132" lon="51.3976411" user="vmoghiti" uid="238107" visible="true" version="1" changeset="3979720" timestamp="2010-02-26T12:38:11Z"/>
+ <node id="659767086" lat="35.6860226" lon="51.4214588" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:12Z"/>
+ <node id="424283365" lat="35.6858584" lon="51.4206051" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1557913" timestamp="2009-06-18T20:37:22Z"/>
+ <node id="871798207" lat="35.7098305" lon="51.3491870" user="FarsiTel project" uid="334158" visible="true" version="1" changeset="5551285" timestamp="2010-08-21T11:52:41Z"/>
+ <node id="660628303" lat="35.7075087" lon="51.4515176" user="max-irani" uid="322156" visible="true" version="2" changeset="9220512" timestamp="2011-09-05T18:29:28Z">
+  <tag k="name" v="شهید مدنی"/>
+  <tag k="name:en" v="Shahid Madani"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="26842286" lat="35.6859907" lon="51.4169328" user="Claudius Henrichs" uid="18069" visible="true" version="2" changeset="4413763" timestamp="2010-04-13T13:25:29Z">
+  <tag k="name" v="سردر باغ ملی"/>
+  <tag k="tourism" v="attraction"/>
+ </node>
+ <node id="26205857" lat="35.7058279" lon="51.3537000" user="vmoghiti" uid="238107" visible="true" version="3" changeset="3990644" timestamp="2010-02-27T17:44:55Z"/>
+ <node id="27079286" lat="35.6864938" lon="51.4143199" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:56:18Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="659767092" lat="35.6855520" lon="51.4216734" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:13Z"/>
+ <node id="26208025" lat="35.6870308" lon="51.4026802" user="robert" uid="1295" visible="true" version="3" changeset="1576336" timestamp="2009-06-20T17:39:33Z">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="26842273" lat="35.6858443" lon="51.4188544" user="vmoghiti" uid="238107" visible="true" version="4" changeset="4024822" timestamp="2010-03-03T14:05:29Z"/>
+ <node id="434488867" lat="35.6860332" lon="51.4256852" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1740481" timestamp="2009-07-05T16:39:27Z"/>
+ <node id="659767083" lat="35.6857252" lon="51.4224650" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4024822" timestamp="2010-03-03T13:48:09Z"/>
+ <node id="27079261" lat="35.6865005" lon="51.4148517" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:51:59Z">
+  <tag k="created_by" v="YahooApplet 1.0"/>
+ </node>
+ <node id="659784460" lat="35.6884036" lon="51.4271962" user="Esperanza36" uid="83557" visible="true" version="3" changeset="4040137" timestamp="2010-03-05T12:01:17Z">
+  <tag k="name" v="ايستگاه ملت"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="660628361" lat="35.7109919" lon="51.4555304" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:03:46Z"/>
+ <node id="29364415" lat="35.6880494" lon="51.3944000" user="Ali Jahanshahi" uid="414467" visible="true" version="2" changeset="7470077" timestamp="2011-03-06T06:45:27Z"/>
+ <node id="424283312" lat="35.6977083" lon="51.4195307" user="Maarten Deen" uid="9176" visible="true" version="3" changeset="5342526" timestamp="2010-07-28T21:50:56Z"/>
+ <node id="660628704" lat="35.7361555" lon="51.4907639" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:05:56Z"/>
+ <node id="424283326" lat="35.6902110" lon="51.4142250" user="ffathead" uid="215700" visible="true" version="2" changeset="9105120" timestamp="2011-08-23T16:22:36Z"/>
+ <node id="411824502" lat="35.6993988" lon="51.4237631" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1335740" timestamp="2009-05-27T17:42:29Z"/>
+ <node id="440985118" lat="35.6846092" lon="51.4144669" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1812415" timestamp="2009-07-12T23:39:17Z"/>
+ <node id="411824500" lat="35.6994217" lon="51.4193745" user="Maarten Deen" uid="9176" visible="true" version="3" changeset="5342526" timestamp="2010-07-28T21:50:46Z"/>
+ <node id="424283379" lat="35.6882287" lon="51.4203905" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1557913" timestamp="2009-06-18T20:37:23Z"/>
+ <node id="26842270" lat="35.6858479" lon="51.4184415" user="vmoghiti" uid="238107" visible="true" version="4" changeset="4024822" timestamp="2010-03-03T14:05:30Z"/>
+ <node id="660628920" lat="35.7308778" lon="51.5304498" user="Esperanza36" uid="83557" visible="true" version="1" changeset="4040137" timestamp="2010-03-05T12:08:31Z"/>
+ <node id="426967662" lat="35.6864625" lon="51.4073724" user="robert" uid="1295" visible="true" version="1" changeset="1576336" timestamp="2009-06-20T17:39:32Z"/>
+ <way id="37289903" user="vmoghiti" uid="238107" visible="true" version="2" changeset="4024822" timestamp="2010-03-03T14:11:35Z">
+  <nd ref="659767089"/>
+  <nd ref="434488873"/>
+  <nd ref="434488874"/>
+  <nd ref="27033474"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="bab homayoon"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="4416525" user="vmoghiti" uid="238107" visible="true" version="5" changeset="4024822" timestamp="2010-03-03T14:29:30Z">
+  <nd ref="411824547"/>
+  <nd ref="27034324"/>
+  <nd ref="27034325"/>
+  <tag k="full_name:fa" v="خیابان اکباتان"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Ekbatan Street; lale zar"/>
+  <tag k="name:fa" v="اکباتان"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="4392878" user="vmoghiti" uid="238107" visible="true" version="5" changeset="4024822" timestamp="2010-03-03T14:06:18Z">
+  <nd ref="424283365"/>
+  <nd ref="26842283"/>
+  <nd ref="26842273"/>
+  <nd ref="26842270"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Emam Khomeyni Street"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="51682662" user="Hooman Mesgary" uid="7161" visible="true" version="6" changeset="10052529" timestamp="2011-12-06T19:10:08Z">
+  <nd ref="659776856"/>
+  <nd ref="1534383973"/>
+  <nd ref="424397976"/>
+  <nd ref="1333387875"/>
+  <nd ref="447880566"/>
+  <nd ref="447880567"/>
+  <nd ref="532685797"/>
+  <nd ref="25971740"/>
+  <nd ref="1333387955"/>
+  <nd ref="424283312"/>
+  <nd ref="411824500"/>
+  <nd ref="27078726"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Ferdowsi"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="137695566" user="Hooman Mesgary" uid="7161" visible="true" version="2" changeset="10052529" timestamp="2011-12-06T19:10:07Z">
+  <nd ref="1510047657"/>
+  <nd ref="1534383974"/>
+  <nd ref="1510047637"/>
+  <tag k="full_name:fa" v="خیابان بهنیا"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="بهنیا"/>
+  <tag k="name:en" v="Behnia Street"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="4392786" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:17:45Z">
+  <nd ref="26841410"/>
+  <nd ref="27033154"/>
+  <nd ref="26841411"/>
+  <nd ref="26841408"/>
+  <nd ref="26841409"/>
+  <nd ref="26841410"/>
+  <tag k="created_by" v="JOSM"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name:fa" v="پارک شهر"/>
+ </way>
+ <way id="4392875" user="Stéphane Péchard" uid="98682" visible="true" version="2" changeset="3648850" timestamp="2010-01-18T10:07:37Z">
+  <nd ref="26842272"/>
+  <nd ref="26842271"/>
+  <tag k="full_name:fa" v="خیابان کشاورزی"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Keshavarzi Street"/>
+  <tag k="name:fa" v="کشاورزی"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="4392881" user="Claudius Henrichs" uid="18069" visible="true" version="2" changeset="4413763" timestamp="2010-04-13T13:25:29Z">
+  <nd ref="26842277"/>
+  <nd ref="26842292"/>
+  <tag k="full_name:fa" v="خیابان سی تیر"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="سی تیر"/>
+  <tag k="name:en" v="30th Tir Street"/>
+ </way>
+ <way id="51683128" user="Esperanza36" uid="83557" visible="true" version="5" changeset="4040021" timestamp="2010-03-05T11:37:06Z">
+  <nd ref="411824546"/>
+  <nd ref="411824547"/>
+  <nd ref="424398195"/>
+  <nd ref="411824548"/>
+  <nd ref="447880531"/>
+  <nd ref="411824473"/>
+  <nd ref="447880534"/>
+  <nd ref="27079121"/>
+  <nd ref="411824502"/>
+  <nd ref="411824441"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="lale zar"/>
+ </way>
+ <way id="4419620" user="Claudius Henrichs" uid="18069" visible="true" version="2" changeset="4413763" timestamp="2010-04-13T13:25:30Z">
+  <nd ref="27079261"/>
+  <nd ref="27079266"/>
+  <nd ref="27079288"/>
+  <nd ref="27079287"/>
+  <nd ref="27079286"/>
+  <nd ref="27079261"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="بوستان معلم"/>
+  <tag k="name:en" v="Moallem Park"/>
+ </way>
+ <way id="126628527" user="ffathead" uid="215700" visible="true" version="2" changeset="9105120" timestamp="2011-08-23T16:22:34Z">
+  <nd ref="424283278"/>
+  <nd ref="836859729"/>
+  <nd ref="1410146019"/>
+  <nd ref="447880524"/>
+  <nd ref="424283326"/>
+  <nd ref="26842292"/>
+  <tag k="highway" v="residential"/>
+  <tag k="source" v="Yahoo"/>
+ </way>
+ <way id="38080205" user="kesler" uid="13908" visible="true" version="2" changeset="8502849" timestamp="2011-06-21T09:45:32Z">
+  <nd ref="447880566"/>
+  <nd ref="447880574"/>
+  <nd ref="447880575"/>
+  <nd ref="447880524"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="35103859" user="Maarten Deen" uid="9176" visible="true" version="11" changeset="5342526" timestamp="2010-07-28T21:51:13Z">
+  <nd ref="411824539"/>
+  <nd ref="424289859"/>
+  <nd ref="411824514"/>
+  <nd ref="431012284"/>
+  <nd ref="411824541"/>
+  <nd ref="411824543"/>
+  <nd ref="434488867"/>
+  <nd ref="27034323"/>
+  <nd ref="411824544"/>
+  <nd ref="411824545"/>
+  <nd ref="659767083"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="amir kabir"/>
+ </way>
+ <way id="4392882" user="Claudius Henrichs" uid="18069" visible="true" version="3" changeset="4413763" timestamp="2010-04-13T13:25:31Z">
+  <nd ref="26842291"/>
+  <nd ref="26842288"/>
+  <nd ref="26842289"/>
+  <nd ref="26842290"/>
+  <nd ref="26842291"/>
+  <tag k="amenity" v="public_building"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="وزارت امور خارجه"/>
+ </way>
+ <way id="37622955" user="andrewpmk" uid="1679" visible="true" version="1" changeset="1812415" timestamp="2009-07-12T23:39:18Z">
+  <nd ref="440985118"/>
+  <nd ref="440985122"/>
+  <tag k="highway" v="primary"/>
+ </way>
+ <way id="140039126" user="Hooman Mesgary" uid="7161" visible="true" version="1" changeset="10052529" timestamp="2011-12-06T19:10:05Z">
+  <nd ref="1534383974"/>
+  <nd ref="1534383973"/>
+  <tag k="full_name" v="کوچه بانک مسکن"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="بانک مسکن"/>
+  <tag k="name:en" v="Bank Maskan Alley"/>
+ </way>
+ <way id="4344390" user="andrewpmk" uid="1679" visible="true" version="3" changeset="1740481" timestamp="2009-07-05T16:39:27Z">
+  <nd ref="26461631"/>
+  <nd ref="427203301"/>
+  <nd ref="26461642"/>
+  <nd ref="26461650"/>
+  <nd ref="26461643"/>
+  <nd ref="26208967"/>
+  <nd ref="26841414"/>
+  <nd ref="26841407"/>
+  <nd ref="27033388"/>
+  <nd ref="434488864"/>
+  <nd ref="26879628"/>
+  <nd ref="26842270"/>
+  <tag k="created_by" v="JOSM"/>
+  <tag k="full_name:fa" v="خیابان خیام"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="4"/>
+  <tag k="name" v="Khayyam Street"/>
+  <tag k="name:fa" v="خیام"/>
+  <tag k="oneway" v="1"/>
+ </way>
+ <way id="36381147" user="mapper_07" uid="12295" visible="true" version="2" changeset="1600411" timestamp="2009-06-23T10:10:03Z">
+  <nd ref="27079311"/>
+  <nd ref="424283355"/>
+  <nd ref="26842274"/>
+  <nd ref="428281575"/>
+  <tag k="highway" v="road"/>
+  <tag k="source" v="Yahoo"/>
+ </way>
+ <way id="136750452" user="smostafa" uid="552939" visible="true" version="1" changeset="9806950" timestamp="2011-11-12T18:12:44Z">
+  <nd ref="1500310992"/>
+  <nd ref="1500311001"/>
+  <nd ref="1500311003"/>
+  <nd ref="1500311005"/>
+  <nd ref="1500310992"/>
+  <tag k="amenity" v="college"/>
+ </way>
+ <way id="4392876" user="vmoghiti" uid="238107" visible="true" version="8" changeset="5527246" timestamp="2010-08-18T15:20:16Z">
+  <nd ref="26842270"/>
+  <nd ref="26842285"/>
+  <nd ref="26842272"/>
+  <nd ref="27079336"/>
+  <nd ref="440985122"/>
+  <nd ref="26842277"/>
+  <nd ref="26842278"/>
+  <nd ref="26842276"/>
+  <nd ref="426965559"/>
+  <nd ref="426967662"/>
+  <nd ref="426967665"/>
+  <nd ref="426965557"/>
+  <nd ref="26208025"/>
+  <nd ref="423733343"/>
+  <nd ref="866847572"/>
+  <nd ref="426969074"/>
+  <nd ref="426969071"/>
+  <nd ref="29364415"/>
+  <nd ref="26458951"/>
+  <tag k="full_name:fa" v="خیابان امام خمینی"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Emam Khomeyni Street"/>
+  <tag k="name:fa" v="امام خمینی"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="51734657" user="vmoghiti" uid="238107" visible="true" version="1" changeset="4034115" timestamp="2010-03-04T16:40:49Z">
+  <nd ref="27033534"/>
+  <nd ref="27034319"/>
+  <nd ref="27034295"/>
+  <nd ref="411824544"/>
+  <tag k="full_name:fa" v="خیابان ناصر خسرو"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Naser Khosro Street"/>
+  <tag k="name:fa" v="ناصر خسرو"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="38682892" user="Claudius Henrichs" uid="18069" visible="true" version="6" changeset="4413763" timestamp="2010-04-13T13:25:31Z">
+  <nd ref="424283365"/>
+  <nd ref="424283379"/>
+  <nd ref="659776856"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Ferdowsi"/>
+ </way>
+ <way id="4392877" user="Roozbeh" uid="6069" visible="true" version="1" changeset="246917" timestamp="2007-03-27T18:49:05Z">
+  <nd ref="26842273"/>
+  <nd ref="26842274"/>
+  <tag k="created_by" v="JOSM"/>
+  <tag k="full_name:fa" v="کوچهٔ پست"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="Post Alley"/>
+  <tag k="name:fa" v="پست"/>
+ </way>
+ <way id="36337279" user="Hooman Mesgary" uid="7161" visible="true" version="4" changeset="9886768" timestamp="2011-11-20T16:59:11Z">
+  <nd ref="423834463"/>
+  <nd ref="424283326"/>
+  <nd ref="1510047657"/>
+  <nd ref="1333387875"/>
+  <tag k="full_name:fa" v="خیابان سرهنگ سخایی"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="سرهنگ سخایی"/>
+  <tag k="name:en" v="Sakhaee Street"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="28745590" user="FarsiTel project" uid="334158" visible="true" version="17" changeset="5942041" timestamp="2010-10-03T09:53:34Z">
+  <nd ref="31004159"/>
+  <nd ref="316059967"/>
+  <nd ref="28839114"/>
+  <nd ref="871798207"/>
+  <nd ref="316059968"/>
+  <nd ref="26205857"/>
+  <nd ref="316060187"/>
+  <nd ref="936352576"/>
+  <nd ref="316060188"/>
+  <nd ref="27074511"/>
+  <nd ref="29364378"/>
+  <nd ref="654082930"/>
+  <nd ref="654082931"/>
+  <nd ref="26842279"/>
+  <nd ref="660628271"/>
+  <nd ref="659784460"/>
+  <nd ref="660628272"/>
+  <nd ref="660628273"/>
+  <nd ref="659782107"/>
+  <nd ref="660627035"/>
+  <nd ref="660628274"/>
+  <nd ref="660628275"/>
+  <nd ref="660628277"/>
+  <nd ref="660628303"/>
+  <nd ref="660628304"/>
+  <nd ref="660628361"/>
+  <nd ref="660628362"/>
+  <nd ref="660628363"/>
+  <nd ref="660628364"/>
+  <nd ref="660628365"/>
+  <nd ref="660628460"/>
+  <nd ref="660628461"/>
+  <nd ref="660628627"/>
+  <nd ref="660628663"/>
+  <nd ref="660628669"/>
+  <nd ref="660628664"/>
+  <nd ref="660628698"/>
+  <nd ref="660628699"/>
+  <nd ref="660628700"/>
+  <nd ref="660628701"/>
+  <nd ref="660628704"/>
+  <nd ref="660628705"/>
+  <nd ref="660628706"/>
+  <nd ref="660628852"/>
+  <nd ref="660628853"/>
+  <nd ref="660628854"/>
+  <nd ref="660628855"/>
+  <nd ref="660628856"/>
+  <nd ref="660628920"/>
+  <nd ref="660628921"/>
+  <nd ref="660628922"/>
+  <tag k="layer" v="-1"/>
+  <tag k="loc_ref:fa" v="خط ۲"/>
+  <tag k="railway" v="subway"/>
+ </way>
+ <way id="4392879" user="Claudius Henrichs" uid="18069" visible="true" version="3" changeset="4413763" timestamp="2010-04-13T13:25:30Z">
+  <nd ref="26842285"/>
+  <nd ref="26842286"/>
+  <nd ref="428281575"/>
+  <nd ref="26842284"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="خیابان ملل متحد"/>
+ </way>
+ <way id="4397517" user="Stéphane Péchard" uid="98682" visible="true" version="3" changeset="3648850" timestamp="2010-01-18T10:06:32Z">
+  <nd ref="26879628"/>
+  <nd ref="26842271"/>
+  <nd ref="440985118"/>
+  <nd ref="26879629"/>
+  <tag k="full_name:fa" v="خیابان شهید دکتر فیاض‌بخش"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Fayyaz Bakhsh Street"/>
+  <tag k="name:fa" v="فیاض‌بخش"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="36390293" user="kesler" uid="13908" visible="true" version="3" changeset="8502849" timestamp="2011-06-21T09:45:25Z">
+  <nd ref="424397976"/>
+  <nd ref="424398195"/>
+  <tag k="highway" v="residential"/>
+  <tag k="source" v="Yahoo"/>
+ </way>
+ <way id="36390295" user="IknowJoseph" uid="30587" visible="true" version="1" changeset="1558635" timestamp="2009-06-18T21:42:12Z">
+  <nd ref="411824548"/>
+  <nd ref="424289398"/>
+  <tag k="highway" v="road"/>
+  <tag k="source" v="Yahoo"/>
+ </way>
+ <way id="51681571" user="Claudius Henrichs" uid="18069" visible="true" version="4" changeset="5581978" timestamp="2010-08-24T17:33:54Z">
+  <nd ref="659767084"/>
+  <nd ref="659767085"/>
+  <nd ref="659767086"/>
+  <nd ref="659767087"/>
+  <nd ref="659767088"/>
+  <nd ref="424283365"/>
+  <nd ref="659767089"/>
+  <nd ref="659767090"/>
+  <nd ref="659767091"/>
+  <nd ref="659767092"/>
+  <nd ref="659767093"/>
+  <nd ref="659767083"/>
+  <nd ref="411824546"/>
+  <nd ref="659767084"/>
+  <tag k="highway" v="primary"/>
+  <tag k="junction" v="roundabout"/>
+  <tag k="name" v="میدان امام خومینی"/>
+  <tag k="name:en" v="Emam Khomeyni Sq"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="4419621" user="Roozbeh" uid="6069" visible="true" version="1" changeset="6630" timestamp="2007-04-04T15:56:33Z">
+  <nd ref="27079289"/>
+  <nd ref="27079288"/>
+  <tag k="created_by" v="JOSM"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="4392880" user="Hooman Mesgary" uid="7161" visible="true" version="4" changeset="9886768" timestamp="2011-11-20T16:59:11Z">
+  <nd ref="659776856"/>
+  <nd ref="27079311"/>
+  <nd ref="1510047637"/>
+  <nd ref="26842284"/>
+  <nd ref="26842292"/>
+  <tag k="full_name:fa" v="خیابان شهید عبدالحمید کوشک مصری"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="کوشک مصری"/>
+  <tag k="name:en" v="Kushk Mesri Street"/>
+ </way>
+ <relation id="443293" user="Esperanza36" uid="83557" visible="true" version="6" changeset="4040021" timestamp="2010-03-05T11:32:50Z">
+  <member type="way" ref="28745590" role=""/>
+  <member type="way" ref="4824045" role=""/>
+  <tag k="color" v="blue"/>
+  <tag k="name" v="خط دو"/>
+  <tag k="ref" v="2"/>
+  <tag k="route" v="subway"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="537701" user="Nima Farid" uid="294227" visible="true" version="4" changeset="9870074" timestamp="2011-11-19T04:23:49Z">
+  <member type="way" ref="39976182" role=""/>
+  <member type="way" ref="39974315" role=""/>
+  <member type="way" ref="39952524" role=""/>
+  <member type="way" ref="39976195" role=""/>
+  <member type="way" ref="39976191" role=""/>
+  <member type="way" ref="39976176" role=""/>
+  <member type="way" ref="39976203" role=""/>
+  <member type="node" ref="25960293" role="capital"/>
+  <tag k="admin_level" v="4"/>
+  <tag k="alt_name:vi" v="Têhêrăng"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="تهران"/>
+  <tag k="name:en" v="Tehran"/>
+  <tag k="name:vi" v="Tehran"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+</osm>

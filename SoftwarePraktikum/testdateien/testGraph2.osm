@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- TestGraph2 - Hier wird ein gültiger Graph eingelesen und im Test überprüft. Es gibt dabei 11 Knoten und 7 kanten - siehe dazu auch die Dokumentation des Testgraphen -->
+<osm version="0.6" generator="ichwars">
+<bounds minlat="-20.1585328" minlon="-40.4654551" maxlat="20.4852154" maxlon="40.5879648" />
+<!-- Erste Node: Achtung, Umlaut, ansonsten komplett problemfrei -->
+<node id="1" lat="5.1234587" lon="3.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- zweite Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="2" lat="7.1234587" lon="4.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- dritte Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="3" lat="1.1234587" lon="5.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- vierte Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="4" lat="2.1234587" lon="6.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- fünfte Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="5" lat="3.1234587" lon="7.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- sechste Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="6" lat="8.1234587" lon="8.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- siebte Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="7" lat="9.1234587" lon="9.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- achte Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="8" lat="7.2234587" lon="4.5567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- neunte Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="9" lat="7.3234587" lon="4.6567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- zehnte Node: gleicher user! (auch Umlaut) sonst problemfrei  isolierter Knoten-->
+<node id="10" lat="7.4234587" lon="4.7567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- elfte Node: gleicher user! (auch Umlaut) sonst problemfrei -->
+<node id="11" lat="7.1234587" lon="4.4567866" version="1" cahngeset="456789123" user="kläuschen" uid="500" visible="true" timestamp="2011-11-01T12:00:01Z">
+	<tag k="highway" v="traffic_signals" />
+</node>
+
+<!-- erster way ist way 10 - von 1 nach 6 nach 2-->
+<way id="10" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="6" />
+	<nd ref="2" />
+	<tag k="highway" v="motorway" />
+	<tag k="name" v="teststr. 10" />
+	<tag k="oneway" v="yes" />
+</way>
+
+<!-- zweiter way ist way 8 - von 1 nach 6 -->
+<way id="8" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="1" />
+	<nd ref="6" />
+	<tag k="highway" v="primary" />
+	<tag k="name" v="teststr. 8" />
+	<tag k="oneway" v="yes" />
+</way>
+
+<!-- dritter way ist way 20 - von 2 nach 7 nach 3 -->
+<way id="20" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="2" />
+	<nd ref="7" />
+	<nd ref="3" />
+	<tag k="highway" v="primary" />
+	<tag k="name" v="teststraße 1" />
+</way>
+
+<!-- vierter way ist way 4 - von 4 nach 8 -->
+<way id="4" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="4" />
+	<nd ref="8" />
+	<tag k="highway" v="primary" />
+	<tag k="name" v="teststraße 4" />
+	<tag k="oneway" v="yes" />
+</way>
+
+<!-- fünfter way ist way 5 - von 4 nach 9 nach 5 -->
+<way id="5" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="masochist1890" uid="5001" >
+	<nd ref="4" />
+	<nd ref="9" />
+	<nd ref="5" />
+	<tag k="highway" v="primary" />
+	<tag k="name" v="teststraße 5" />
+	<tag k="oneway" v="yes" />
+</way>
+
+<!-- sechster way ist way 7 - von 10 nach 5 -->
+<way id="7" visible="true" timestamp="2011-11-01T12:00:01Z" version="1" changeset="456789123" user="läköpü1199" uid="5005" >
+	<nd ref="10" />
+	<nd ref="5" />
+	<tag k="highway" v="primary" />
+	<tag k="name" v="teststraße 7" />
+	<tag k="oneway" v="yes" />
+</way>
+
+</osm>
