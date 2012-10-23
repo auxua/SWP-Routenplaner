@@ -15,7 +15,7 @@ public class SplashMain extends JFrame implements Runnable{
 	 */
 	private static final long serialVersionUID = 9067640161350394294L;
 	/**
-	 * Pseudo Mainklasse zum Testen von MainFrame
+	 * Pseudo Mainklasse zum Starten des MainFrame
 	 */
 	private Image splash;
 	private Thread th;
@@ -32,8 +32,14 @@ public class SplashMain extends JFrame implements Runnable{
 		this.setLocationRelativeTo(null);
 	}
 	public static void main(String[] args) {
-		SplashMain sm = new SplashMain(Toolkit.getDefaultToolkit().getImage("img/splash2.gif"),3000);
-		sm.showSplash();
+		try {
+			SplashMain sm = new SplashMain(Toolkit.getDefaultToolkit().getImage("img/splash2.gif"),3000);
+			sm.showSplash();
+		} catch (StackOverflowError stErr) {
+			System.err.println("Fehler: Zu kleiner Stack. Bitte starten mit der -Xss-Option");
+		} catch (OutOfMemoryError memErr) {
+			System.err.println("Fehler: Zu kleiner Speicher. Moeglicher Fix: -Xmx / -Xms Optionen");
+		}
 	}
 	
 	public void showSplash(){

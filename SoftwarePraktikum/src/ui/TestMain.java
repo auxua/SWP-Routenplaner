@@ -1,5 +1,7 @@
 package ui;
 
+import main.Logger;
+
 
 @SuppressWarnings("unused")
 public class TestMain {
@@ -22,8 +24,13 @@ public class TestMain {
 		//		}
 
 		main.Logger.setTimeOutput(true);
-
-		final MainFrame mf = new MainFrame(800,600);
+		try {
+			final MainFrame mf = new MainFrame(800,600);
+		} catch (StackOverflowError stErr) {
+			System.err.println("Fehler: Zu kleiner Stack. Bitte starten mit der -Xss-Option");
+		} catch (OutOfMemoryError memErr) {
+			System.err.println("Fehler: Zu kleiner Speicher. Moeglicher Fix: -Xmx / -Xms Optionen");
+		}
 
 		//		try {
 		//			MainPreProc.main(new File("duesseldorf.osm"));
