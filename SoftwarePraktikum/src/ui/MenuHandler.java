@@ -2,16 +2,24 @@ package ui;
 
 
 import java.awt.Desktop;
+import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.FontMetrics;
+import java.awt.Graphics;
+import java.awt.Rectangle;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.IOException;
 
+import javax.swing.AbstractAction;
+import javax.swing.Action;
 import javax.swing.JFileChooser;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
+import javax.swing.JSeparator;
 
 import main.MainPreProc;
 
@@ -54,7 +62,7 @@ public class MenuHandler implements ActionListener{
 		mgsave = new JMenuItem("gepreprocesste Karte oeffnen");
 		osm = new JMenuItem("*.osm preprocessen");
 		exit = new JMenuItem("Beenden");
-		
+				
 		jDoc = new JMenuItem("JavaDoc");
 		shortDoc = new JMenuItem("Kurzdoku");
 
@@ -72,6 +80,12 @@ public class MenuHandler implements ActionListener{
 		menuBar.add(options);
 		menuBar.add(help);
 		menuBar.add(exit);
+		
+		//Scaling the exit-button
+		Dimension dim = exit.getPreferredSize();
+		dim.height = exit.getMaximumSize().height;
+		exit.setMaximumSize(dim);
+
 		
 		help.add(shortDoc);
 		help.add(jDoc);
