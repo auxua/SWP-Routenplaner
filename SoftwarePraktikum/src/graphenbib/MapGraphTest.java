@@ -91,6 +91,7 @@ public class MapGraphTest {
 	 */
 	@Test
 	public void testMapGraph() {
+	//public void testMapGraph() {
 		//Diese sollten funktionieren
 		try {
 			testGraph = new MapGraph(graphKoord[0],graphKoord[1]);
@@ -131,13 +132,17 @@ public class MapGraphTest {
 			fail("fehler bei failgraph am Ende "+e.getLocalizedMessage());
 		}
 		
+		this.testInsertNode();
+		this.testInsertEdgeIntIntIntFloatStreetType();
+		this.testGetNode();
+		this.testDeleteIsolatedNodes();
 		
 	}
 
 	/**
 	 * Test method for {@link graphenbib.MapGraph#insertNode(int,graphenbib.GPSCoordinate)}.
 	 */
-	@Test
+	//@Test
 	public void testInsertNode() {
 		//Teste zunaechst einfuegen gueltiger Daten
 		try {
@@ -230,7 +235,7 @@ public class MapGraphTest {
 	/**
 	 * Test method for {@link graphenbib.MapGraph#insertEdge(int, int, int, int, graphenbib.StreetType)}.
 	 */
-	@Test
+	//@Test
 	public void testInsertEdgeIntIntIntFloatStreetType() {
 		try {
 			//Test zunaechst korrekte Daten
@@ -300,7 +305,7 @@ public class MapGraphTest {
 	/**
 	 * Test method for {@link graphenbib.MapGraph#getNode(int)}.
 	 */
-	@Test
+	//@Test
 	public void testGetNode() {
 		//boolean[] korrekt1 = new boolean[11];
 		boolean[] korrekt2 = new boolean[11];
@@ -415,7 +420,7 @@ public class MapGraphTest {
 	 * Verwaiste Knoten sind solche ohne eingehende und ausgehende Kanten
 	 * Daher failed der Test momentan.
 	 */
-	@Test
+	//@Test
 	public void testDeleteIsolatedNodes() {
 		/*
 		 * Hier soll die Contract-methode getestet werden.
