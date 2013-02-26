@@ -221,8 +221,8 @@ public class RepaintWorker implements Runnable {
 				
 				
 				//g2d.drawImage(startFlag, startPos[0]-((flagFactor*imgSize)/2), startPos[1]-((flagFactor*imgSize)/2), imgSize*flagFactor, imgSize*flagFactor, null);
-				g2d.drawImage(destFlag, endPos[0]-thick+50, endPos[1]-thick-50, imgSize*flagFactor, imgSize*(flagFactor), null);
-				g2d.drawImage(startFlag, startPos[0]-thick+50, startPos[1]-thick-50, imgSize*flagFactor, imgSize*(flagFactor), null);
+				g2d.drawImage(destFlag,  endPos[0]-125  , endPos[1]  -imgSize*flagFactor+50, imgSize*flagFactor, imgSize*flagFactor, null);
+				g2d.drawImage(startFlag, startPos[0]-125, startPos[1]-imgSize*flagFactor+50, imgSize*flagFactor, imgSize*flagFactor, null);
 //				synchronized(this) {
 //					mapP.repaint();
 //					try{
