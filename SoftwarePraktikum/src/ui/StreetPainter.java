@@ -7,6 +7,8 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 import java.util.HashMap;
 
+import main.Config;
+
 /**
  * Dient zum Zeichnen einer Strassenkante in einem bestimmten Stil
  * (z.B. Motorway sieht anders aus als Living Street)
@@ -51,16 +53,16 @@ public class StreetPainter {
 	 * initialisiert Die HashMap args, welche zu jedem Strassentyp die Zeichenvorgaben enthaelt
 	 */
 	private void initArgs(){
-		args.put(StreetType.MOTORWAY,new StreetPaintArgs(1.8f,new Color(230,150,0)));
-		args.put(StreetType.TRUNK,new StreetPaintArgs(1.6f,new Color(230,150,0)));
-		args.put(StreetType.PRIMARY,new StreetPaintArgs(1.6f,Color.YELLOW));
-		args.put(StreetType.SECONDARY,new StreetPaintArgs(1.5f,Color.YELLOW));
-		args.put(StreetType.TERTIARY,new StreetPaintArgs(1.4f,Color.YELLOW));
-		args.put(StreetType.RESIDENTIAL,new StreetPaintArgs(1.3f,Color.WHITE));
-		args.put(StreetType.LIVING_STREET,new StreetPaintArgs(1.3f, Color.WHITE));
-		args.put(StreetType.ROAD,new StreetPaintArgs(1.3f,Color.WHITE));
-		args.put(StreetType.SHORTESTPATH,new StreetPaintArgs(2.2f, Color.CYAN));
-		args.put(StreetType.UNKNOWN,new StreetPaintArgs(2.0f, Color.RED));
+		args.put(StreetType.MOTORWAY,		new StreetPaintArgs(1.8f,Config.motorwayColor));
+		args.put(StreetType.TRUNK,			new StreetPaintArgs(1.6f,Config.trunkColor));
+		args.put(StreetType.PRIMARY,		new StreetPaintArgs(1.6f,Config.primaryColor));
+		args.put(StreetType.SECONDARY,		new StreetPaintArgs(1.5f,Config.secondaryColor));
+		args.put(StreetType.TERTIARY,		new StreetPaintArgs(1.4f,Config.tertiaryColor));
+		args.put(StreetType.RESIDENTIAL,	new StreetPaintArgs(1.3f,Config.residentialColor));
+		args.put(StreetType.LIVING_STREET,	new StreetPaintArgs(1.3f,Config.livingStreetColor));
+		args.put(StreetType.ROAD,			new StreetPaintArgs(1.3f,Config.roadColor));
+		args.put(StreetType.SHORTESTPATH,	new StreetPaintArgs(2.0f,Config.shortestPathColor));
+		args.put(StreetType.UNKNOWN,		new StreetPaintArgs(0.1f,Config.unknownColor));
 	}
 
 	/**

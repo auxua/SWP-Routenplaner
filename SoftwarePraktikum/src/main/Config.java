@@ -1,6 +1,7 @@
 package main;
 import graphenbib.StreetType;
 
+import java.awt.Color;
 import java.io.File;
 
 public class Config {
@@ -161,4 +162,19 @@ public class Config {
 		//Unterer Wert ist gerade der Kehrwert hiervon.
 		return Math.round(3600./(averageSpeed));
 	}
+	
+	/**
+	 * Parameter für die farbliche Darstellung der Straßentypen
+	 */
+	public static final Color motorwayColor 	= new Color( 10, 10,200);
+	public static final Color trunkColor		= new Color( 20, 20,200);
+	public static final Color primaryColor 		= new Color(230,150,  0);
+	public static final Color secondaryColor 	= new Color(240,160, 30);
+	public static final Color tertiaryColor 	= new Color(240,240,140);
+	public static final Color roadColor		 	= new Color(255,255,255);
+	public static final Color residentialColor 	= new Color(230,230,230);
+	public static final Color livingStreetColor = new Color(220,220,220);
+	public static final Color shortestPathColor = new Color(255,  0,  0);
+	public static final Color unknownColor 		= new Color(  0,  0,  0);
+	
 }
