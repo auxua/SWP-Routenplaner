@@ -101,7 +101,7 @@ public class RepaintWorker implements Runnable {
 		} catch (final Exception e) {
 			e.printStackTrace();
 		}
-		drawPath(g2d);		//Zeichne Route
+		drawPath(g2d);		//Zeichne kürzeste Route
 		labelRend.drawLabels(g2d);	//Zeichne Labels
 	}
 
@@ -210,30 +210,18 @@ public class RepaintWorker implements Runnable {
 			}
 			mapP.repaint();
 		}
-		if (path.getEndPos() !=null && path.getStartPos()!=null) {
-			//if (path !=null) {
-				final int thick = StreetPainter.getStreetthickness()+500*guiZoomLvl;
-				//Male Fahnen - drecjkige Loesung, aber sollte schnell geug sein
-				final float[] startCoord = { path.getStartPos().getLongitude(),	path.getStartPos().getLatitude() };
-				final float[] endCoord = { path.getEndPos().getLongitude(),	path.getEndPos().getLatitude() };
-				final int[] startPos = worldToLocal(startCoord);
-				final int[] endPos = worldToLocal(endCoord);
-				
-				
-				//g2d.drawImage(startFlag, startPos[0]-((flagFactor*imgSize)/2), startPos[1]-((flagFactor*imgSize)/2), imgSize*flagFactor, imgSize*flagFactor, null);
+		if (path.getEndPos() !=null) {	//male Ziel flagge
+				final int[] endPos = worldToLocal( new float[]{ path.getEndPos().getLongitude(),	path.getEndPos().getLatitude() });		
 				g2d.drawImage(destFlag,  endPos[0]-125  , endPos[1]  -imgSize*flagFactor+50, imgSize*flagFactor, imgSize*flagFactor, null);
-				g2d.drawImage(startFlag, startPos[0]-125, startPos[1]-imgSize*flagFactor+50, imgSize*flagFactor, imgSize*flagFactor, null);
-//				synchronized(this) {
-//					mapP.repaint();
-//					try{
-//						wait(Constants.time);
-//					} catch (final InterruptedException ex) {
-//						return;
-//					}
-//				}
 				mapP.repaint();
 		}
-		//mapP.repaint();
+		if (path.getStartPos()!=null) {	//Male Start flagge
+				final int[] startPos = worldToLocal(new float[]{ path.getStartPos().getLongitude(),	path.getStartPos().getLatitude() });
+				
+				g2d.drawImage(startFlag, startPos[0]-125, startPos[1]-imgSize*flagFactor+50, imgSize*flagFactor, imgSize*flagFactor, null);
+				mapP.repaint();
+		}
+//		mapP.repaint();
 	}
 
 	//Getter-Methoden:
